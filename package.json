@@ -5,7 +5,7 @@
     "main": "server.js",
     "author": {
       "name": "daniel machado justo da silva",
-      "email": ""
+      "email": "danielmjs609@gmail.com"
     },
     "dependencies": {
       "bcrypt": "^4.0.0",
